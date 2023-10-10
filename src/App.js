@@ -3,8 +3,7 @@ import Card from "./components/Card";
 
 const App = () => {
   return (
-    <div>
-      react 3d card
+    <div className="w-full bg-[#b1a29d] h-screen flex justify-center items-center">
       <Card />
     </div>
   );
